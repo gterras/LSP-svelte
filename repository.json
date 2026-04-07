@@ -1,0 +1,14 @@
+{
+  "packages": [
+    {
+      "name": "LSP-svelte",
+      "details": "https://github.com/gterras/LSP-svelte",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "tags": true
+        }
+      ]
+    }
+  ]
+}
